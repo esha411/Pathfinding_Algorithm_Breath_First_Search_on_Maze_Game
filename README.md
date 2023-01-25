@@ -23,7 +23,7 @@ Pathfinding requires significant amount of resources especially in movement inte
 
 Breadth-First search is widely used in pathfinding and graph traversal. This algorithm will be used to find the shortest path between two points on the image. The proposed methodology is shown in Figure.
 
-
+![flowchart for BFS](https://user-images.githubusercontent.com/106053643/214510346-59929ec1-c414-4e5a-97a5-11184a199b2c.png)
 
 Breadth-First search algorithm uses First-In-First-Out queue. This algorithm involves visiting nodes one at a time. 
 
