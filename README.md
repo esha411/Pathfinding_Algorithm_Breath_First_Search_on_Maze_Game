@@ -39,3 +39,8 @@ This Breadth-First search algorithm visits nodes in the order of their distance 
 
 <img width="600" alt="Input-2" src="https://user-images.githubusercontent.com/106053643/214513118-568b67bd-2783-4373-80a0-4c4fb4915094.png">
 
+## 👋 Collaborators
+
+- [🙋‍♀️ @Esha Patel](https://github.com/esha411)
+- [🙋 @Dev Parmar](https://github.com/Dev967)
+
