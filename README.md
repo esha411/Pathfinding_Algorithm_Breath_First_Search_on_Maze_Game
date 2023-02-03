@@ -1,4 +1,4 @@
-# ✨ Pathfinding in Strategy Games and Maze Solving Using Breath First Search Algorithm
+# ✨ Pathfinding in Strategy Games and Maze Solving using Breath First Search Algorithm
 
 How can we determine the shortest path between two points? 
 
